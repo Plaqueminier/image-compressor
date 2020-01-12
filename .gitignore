@@ -2,7 +2,6 @@ dist
 dist-*
 cabal-dev
 *.o
-imageCompressor
 *.hi
 *.hie
 *.chi
